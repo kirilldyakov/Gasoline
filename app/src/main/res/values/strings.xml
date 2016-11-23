@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Бензосчетчик</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="camera_item">Camera</string>
+    <string name="import_item">Import</string>
+    <string name="gallery_item">Gallery</string>
+    <string name="slideshow_item">Slideshow</string>
+    <string name="tools_item">Tools</string>
+    <string name="communicate_item">Communicate</string>
+    <string name="share_item">Share</string>
+    <string name="send_item">Send</string>
+    <string name="cars_item">Машины</string>
+    <string name="fillup">Заправка</string>
+    <string name="Volume">Объем</string>
+    <string name="Price">Цена</string>
+    <string name="Sum">Сумма</string>
+    <string name="Odometr">Одометр</string>
+    <string name="btnOK">Записать</string>
+    <string name="FullTank">Полный бак</string>
+    <string name="roads">Пробег</string>
+    <string name="Mark">Марка</string>
+    <string name="Model">Модель</string>
+    <string name="Tank">Объем бака</string>
+    <string name="curRUR">руб.</string>
+    <string name="liters">л.</string>
+</resources>
